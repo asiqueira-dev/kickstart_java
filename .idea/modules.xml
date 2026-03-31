@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kickstart_java.iml" filepath="$PROJECT_DIR$/.idea/kickstart_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-condicionais/modulo-condicionais.iml" filepath="$PROJECT_DIR$/modulo-condicionais/modulo-condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-variaveis-e-tipo-dados/modulo-variaveis-e-tipo-dados.iml" filepath="$PROJECT_DIR$/modulo-variaveis-e-tipo-dados/modulo-variaveis-e-tipo-dados.iml" />
+    </modules>
+  </component>
+</project>
