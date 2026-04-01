@@ -39,11 +39,5 @@ public class Exercicio {
                 System.out.println("Primavera!");
                 break;
         }
-
-
-
-
-
-
     }
 }
